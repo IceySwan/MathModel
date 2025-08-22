@@ -1,0 +1,16 @@
+# idea or vscode
+/.idea/
+/.vscode/
+.DS_Store
+# TeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
